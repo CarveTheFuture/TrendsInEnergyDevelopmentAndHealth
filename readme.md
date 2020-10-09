@@ -12,6 +12,11 @@ The following indicators of population health and progress were examined in this
 | --- | --- | --- |
 | Rural Percentage, Health Expenditures | 1960-2020 | "Arab World",	"Caribbean small states",	"East Asia & Pacific",	"Euro area",	"Europe & Central Asia"
 
+<a href="https://github.com/CarveTheFuture/Health">
+         <img alt="Qries" src="HealthExpenditures.png"
+         width=300" height="140">
+      </a>
+
 ## Dataset source
 *https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics/notebooks?sortBy=dateRun&group=profile&pageSize=20&datasetId=399
 
