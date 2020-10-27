@@ -20,7 +20,7 @@ The following indicators of population health and progress were examined in this
 
 
 
-[![Bar graph]( "Bar graph")](https://public.tableau.com/views/Health_NCU_Expenditures/HealthExpendituresNationalCurrencyUnitsofGDP?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Bar graph")
+[![Bar graph](http://www.obfuscata.com/wp-content/uploads/2017/10/bar-graph-4.png "Bar graph")](https://public.tableau.com/views/Health_NCU_Expenditures/HealthExpendituresNationalCurrencyUnitsofGDP?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Bar graph")
 
 ## Dataset source
 *https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics/notebooks?sortBy=dateRun&group=profile&pageSize=20&datasetId=399
