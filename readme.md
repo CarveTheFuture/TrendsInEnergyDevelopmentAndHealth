@@ -18,9 +18,9 @@ The following indicators of population health and progress were examined in this
       </a>
 
 
-[![Health Expenditure dual](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Truncated_Bar_Graph.svg/1200px-Truncated_Bar_Graph.svg.png)]https://public.tableau.com/views/Health_NCU_Expenditures/HealthExpendituresNationalCurrencyUnitsofGDP?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Health Expenditure dual")
 
-<div style="align: center; margin-left: -150px;"> <iframe src="https://public.tableau.com/views/Health_NCU_Expenditures/HealthExpendituresNationalCurrencyUnitsofGDP?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" frameborder="0"></iframe> </div> 
+
+[![Bar graph]( "Bar graph")](https://public.tableau.com/views/Health_NCU_Expenditures/HealthExpendituresNationalCurrencyUnitsofGDP?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Bar graph")
 
 ## Dataset source
 *https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics/notebooks?sortBy=dateRun&group=profile&pageSize=20&datasetId=399
