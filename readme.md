@@ -30,6 +30,10 @@ In October 2020,this project was embarked on by OPA Towobola to explore and orga
          <img alt="Life Expectancy versus health costs" src="life_expectancy_generic.png"
          width=600" height="280">
       </a>
+<a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
+         <img alt="Life Expectancy versus health costs" src="disability_adjusted_trends.png"
+         width=600" height="280">
+      </a>
 
 
 
