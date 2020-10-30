@@ -20,9 +20,11 @@ Regions
 "Arab World",	"Caribbean small states",	"East Asia & Pacific",	"Euro area",	"Europe & Central Asia"
 
 
-In October 2020,this project was embarked on by OPA Towobola to explore and organize data and analysis on world trends. The main spheres of inqiry were in energy (production, consumption), health (longevity and disease rates) and development (urbanization and GDP). 
+In October 2020, this project was embarked on by OPA Towobola to explore and organize data and analysis on world trends. The main spheres of inqiry were in energy (production, consumption), health (longevity and disease rates) and development (urbanization and GDP). 
 
-Population dispersal has been changing over the course of the period from 1960-2000. Across various world regiosn, the percentage of the population that is rural has been declining. 
+Population dispersal has been changing over the course of the period from 1960-2000. Across various world regions, the percentage of the population that is rural has been declining. 
+
+
 <a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
          <img alt="Rural population trends" src="RuralPopulation.png"
          width=600" height="280">
