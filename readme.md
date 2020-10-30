@@ -28,7 +28,7 @@ October 2020 This project was embarked on by OPA Towobola to explore and organiz
       </a>
 
 <a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
-         <img alt="2-way comparison of factors" src="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth"
+         <img alt="2-way comparison of factors" src="CombinedCorrelation.png"
          width=600" height="280">
       </a>
 
