@@ -31,6 +31,7 @@ Population dispersal has been changing over the course of the period from 1960-2
 The initial intent was to link these, so as to determine linkages. One question that could be answered is whether urbanization trends are promoting better or worse health. A similar question that could be answered is whether promiximity to energy sources (power lines) is linked to health trends for any demograhic group in particular. 
 
 Observations of trend plots show that generally infant mortality drops with advancements in technology and development, such as higher Gross Domestic Product (GDP)
+
 <a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
          <img alt="Rural population trends" src="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth/blob/master/Health/the-decline-of-child-mortality-by-level-of-prosperity-endpoints.png"
          width=600" height="280">
@@ -39,6 +40,7 @@ Observations of trend plots show that generally infant mortality drops with adva
 
 However, there appear to be some side-effects associated with development trends. Studies of this are still underway. 
 One possible indicator of this is the rising rate of Autism diagnoses. Shown below is an apparent rise in the impact of non-communicable diseases.
+
 <a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
          <img alt="Lost life and disability value due to disease" src="disability_adjusted_trends.png"
          width=600" height="280">
@@ -56,6 +58,7 @@ or from third-party payments)
 
 
 The scatter matrix below shows a more detailed view of health expenditure on various measures of health.  
+
 <a href="https://github.com/CarveTheFuture/TrendsInEnergyDevelopmentAndHealth">
          <img alt="2-way comparison of factors" src="CombinedCorrelation.png"
          width=600" height="280">
